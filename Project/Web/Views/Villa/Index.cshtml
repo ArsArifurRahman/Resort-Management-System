@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Villa>
+
+@{
+    ViewData["Title"] = "Villa List";
+    int i = 0;
+}
+
+<div class="row">
+    <div class="card">
+        <div class="card-header row align-middle">
+            <div class="col-md-6">
+                <h4 class="text-start">Villa List</h4>
+            </div>
+            <div class="col-md-6">
+                <a asp-controller="Villa" asp-action="Create" class="btn btn-outline-primary float-end">
+                    <i class="bi bi-plus-square"></i> Create New Villa
+                </a>
+            </div>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Serial</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Sqft</th>
+                        <th>Occupancy</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        ++i;
+                        <tr class="align-middle">
+                            <td>@i</td>
+                            <td>@item.Name</td>
+                            <td>@item.Price</td>
+                            <td>@item.Sqft</td>
+                            <td>@item.Occupancy</td>
+                            <td>
+                                    <a asp-controller="Villa" asp-action="Update" asp-route-villaId="@item.Id"
+                                       class="btn btn-outline-success">
+                                        <i class="bi bi-pencil-square"></i>&nbsp;Edit
+                                    </a>
+                                    <a asp-controller="Villa" asp-action="Delete" asp-route-villaId="@item.Id"
+                                       class="btn btn-outline-danger">
+                                        <i class="bi bi-trash-fill"></i>&nbsp;Delete
+                                    </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

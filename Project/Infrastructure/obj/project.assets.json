@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsns\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\arsns\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsns\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
