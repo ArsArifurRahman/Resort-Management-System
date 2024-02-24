@@ -13,6 +13,74 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Room\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Villa\\a78075cc-2905-4471-a578-1d5fe3945fcd.jpg",
+      "PackagePath": "staticwebassets\\images\\Villa\\a78075cc-2905-4471-a578-1d5fe3945fcd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Villa\\cac7e1b4-5ba4-493f-9b73-14434d5b56d7.jpg",
+      "PackagePath": "staticwebassets\\images\\Villa\\cac7e1b4-5ba4-493f-9b73-14434d5b56d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\Villa\\d75cb0ad-9ed1-46af-87bc-fa99e00b2e58.jpg",
+      "PackagePath": "staticwebassets\\images\\Villa\\d75cb0ad-9ed1-46af-87bc-fa99e00b2e58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\accessDenied.jpg",
+      "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\notfound.jpg",
+      "PackagePath": "staticwebassets\\images\\notfound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\orderConfirmed.jpg",
+      "PackagePath": "staticwebassets\\images\\orderConfirmed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\resort.png",
+      "PackagePath": "staticwebassets\\images\\resort.png"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
       "Id": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

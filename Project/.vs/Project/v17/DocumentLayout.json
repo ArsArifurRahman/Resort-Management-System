@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F9AB87-6F49-497E-BB0C-883CD0D742C2}|Domain\\Domain.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F9AB87-6F49-497E-BB0C-883CD0D742C2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\villa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\villa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\villa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\villa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\villa\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\villa\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F9AB87-6F49-497E-BB0C-883CD0D742C2}|Domain\\Domain.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F9AB87-6F49-497E-BB0C-883CD0D742C2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4967BD4-C48B-4A55-A5D7-B0303051E445}|Web\\Web.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\resort-management-system\\project\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,43 +46,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Villa.cs",
-              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Domain\\Entities\\Villa.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Villa.cs",
-              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Domain\\Entities\\Villa.cs",
-              "RelativeToolTip": "Domain\\Entities\\Villa.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T13:14:32.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T10:18:37.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Create.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\Villa\\Create.cshtml",
               "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Create.cshtml",
               "RelativeToolTip": "Web\\Views\\Villa\\Create.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAaAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T10:08:06.593Z",
+              "WhenOpened": "2024-02-24T16:50:52.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Villa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Delete.cshtml",
+              "RelativeToolTip": "Web\\Views\\Villa\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T16:38:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T15:50:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Update.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Villa\\Update.cshtml",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Update.cshtml",
+              "RelativeToolTip": "Web\\Views\\Villa\\Update.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T14:47:47.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Domain\\Entities\\Villa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Villa.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Domain\\Entities\\Villa.cs",
+              "RelativeToolTip": "Domain\\Entities\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:14:32.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T10:18:37.347Z",
               "EditorCaption": ""
             },
             {
@@ -81,13 +134,14 @@
               "RelativeDocumentMoniker": "Web\\Views\\Villa\\Index.cshtml",
               "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Views\\Villa\\Index.cshtml",
               "RelativeToolTip": "Web\\Views\\Villa\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAAGAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T06:09:24.136Z"
+              "WhenOpened": "2024-02-23T06:09:24.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Program.cs",
               "RelativeDocumentMoniker": "Web\\Program.cs",
@@ -95,19 +149,21 @@
               "RelativeToolTip": "Web\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T06:03:16.809Z"
+              "WhenOpened": "2024-02-23T06:03:16.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "VillaController.cs",
               "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Controllers\\VillaController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\VillaController.cs",
               "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Resort-Management-System\\Project\\Web\\Controllers\\VillaController.cs",
               "RelativeToolTip": "Web\\Controllers\\VillaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T05:58:39.52Z"
+              "WhenOpened": "2024-02-23T05:58:39.52Z",
+              "EditorCaption": ""
             }
           ]
         }

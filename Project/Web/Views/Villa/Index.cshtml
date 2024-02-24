@@ -40,14 +40,14 @@
                             <td>@item.Sqft</td>
                             <td>@item.Occupancy</td>
                             <td>
-                                    <a asp-controller="Villa" asp-action="Update" asp-route-villaId="@item.Id"
-                                       class="btn btn-outline-success">
-                                        <i class="bi bi-pencil-square"></i>&nbsp;Edit
-                                    </a>
-                                    <a asp-controller="Villa" asp-action="Delete" asp-route-villaId="@item.Id"
-                                       class="btn btn-outline-danger">
-                                        <i class="bi bi-trash-fill"></i>&nbsp;Delete
-                                    </a>
+                                <a asp-controller="Villa" asp-action="Update" asp-route-Id="@item.Id"
+                                   class="btn btn-outline-success">
+                                    <i class="bi bi-pencil-square"></i>&nbsp;Edit
+                                </a>
+                                <a asp-controller="Villa" asp-action="Delete" asp-route-Id="@item.Id"
+                                   class="btn btn-outline-danger">
+                                    <i class="bi bi-trash-fill"></i>&nbsp;Delete
+                                </a>
                             </td>
                         </tr>
                     }
